@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ERGSI", "ERGSI\ERGSI.vbproj", "{86457F47-4469-48AC-9484-C998C0A673AE}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ERGSI", "ERGSI.vbproj", "{86457F47-4469-48AC-9484-C998C0A673AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FD291623-26B1-453B-943B-B47D599217C5}
+		SolutionGuid = {DD94CEC4-11DE-4380-999B-7651C093A9A9}
 	EndGlobalSection
 EndGlobal
